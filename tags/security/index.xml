@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on n41lit Blog</title>
+    <link>https://n41l.it/tags/security/</link>
+    <description>Recent content in Security on n41lit Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Some Rights Reserved, see [Copyright](https://n41l.it/about/copyright)</copyright>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://n41l.it/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deepfake</title>
+      <link>https://n41l.it/posts/202410xxdeepfake/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://n41l.it/posts/202410xxdeepfake/</guid>
+      <description>Deepfakes use artificial intelligence and machine learning to create images or videos of people, that were never there in reality.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://n41l.it/posts/202410xxdeepfake/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

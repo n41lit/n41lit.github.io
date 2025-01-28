@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://n41l.it/sitemap.xml
