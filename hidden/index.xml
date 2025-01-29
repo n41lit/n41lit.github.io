@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiddens on n41l.it Blog</title>
+    <link>https://n41l.it/hidden/</link>
+    <description>Recent content in Hiddens on n41l.it Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Some Rights Reserved, see [Copyright](https://n41l.it/about/copyright)</copyright>
+    <lastBuildDate>Fri, 14 Jan 2000 07:07:07 +0100</lastBuildDate><atom:link href="https://n41l.it/hidden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADE 2024 Wishlist</title>
+      <link>https://n41l.it/hidden/ade2024/</link>
+      <pubDate>Fri, 14 Jan 2000 07:07:07 +0100</pubDate>
+      
+      <guid>https://n41l.it/hidden/ade2024/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

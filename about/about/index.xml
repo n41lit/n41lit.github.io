@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on n41lit Blog</title>
+    <link>https://n41l.it/about/about/</link>
+    <description>Recent content in About on n41lit Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Some Rights Reserved, see [Copyright](https://n41l.it/about/copyright)</copyright>
+    <lastBuildDate>Fri, 14 Jan 2000 07:07:07 +0100</lastBuildDate><atom:link href="https://n41l.it/about/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
